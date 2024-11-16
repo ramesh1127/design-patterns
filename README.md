@@ -1,6 +1,6 @@
 This repo will give you overview about design patterns in java and covered core patterns
 
-Covered Patterns 
+Covered Patterns                                                                                                        
         Creational 
                     Singleton 
                     Factory
